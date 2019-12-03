@@ -14,8 +14,8 @@ font-size: 200px;
 	
 }
 #cat{
-	width: 30%;
-	height: 30%;
+	width: 400px;
+	height: 200px;
 	position:fixed;
 	right: 95%;
 	overflow: hidden;
