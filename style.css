@@ -14,10 +14,10 @@ font-size: 200px;
 	
 }
 #cat{
-	width: 400px;
-	height: 200px;
+	width: 35%;
+	height: auto;
 	position:fixed;
-	right: 95%;
+	right: 94%;
 	overflow: hidden;
 	transition: right ease-out 5s;
 }
