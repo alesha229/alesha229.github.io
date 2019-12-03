@@ -1,0 +1,23 @@
+#alesha229 {
+font-size: 200px;
+  font-family: Francois One;
+  color: rgb(77, 81, 85);
+  line-height: 1.2;
+  text-align: center;
+  text-shadow: #3bccfe 0px 0px 70px;
+  transition: text-shadow ease-out 0.5s;
+
+}
+#alesha229:hover {
+	text-shadow: grey 0px 0px 100px;
+	transition: text-shadow ease-out 0.5s;
+	
+}
+#cat{
+	width: 30%;
+	height: 30%;
+	position:fixed;
+	right: 95%;
+	overflow: hidden;
+	transition: right ease-out 5s;
+}
