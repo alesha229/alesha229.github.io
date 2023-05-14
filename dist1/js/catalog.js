@@ -1,6 +1,6 @@
 
 let storage
-switch (window.location.href) {
+switch (window.location.pathname) {
     case '/block.html':
         storage = JSON.parse(localStorage.getItem('blocks'))
         break;
