@@ -1,6 +1,6 @@
 
 let storage
-switch (window.location.pathname) {
+switch (window.location.pathname[window.location.pathname.length -1] !== '/') {
     case '/block.html':
         storage = JSON.parse(localStorage.getItem('blocks'))
         break;
